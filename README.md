@@ -1,16 +1,16 @@
 # Statistics-of-Big-Data-MPs
 This repository consists of various computational tasks performed namely:
 
-Principal Component Analysis
+1. Principal Component Analysis
 
-Regression analysis
+2. Regression analysis
 
-K means algorithm
+3. K means algorithm
 
-Greedy K centers algrithm
+4. Greedy K centers algrithm
 
-Single Swap algorithm
+5. Single Swap algorithm
 
-Spectral Clustering algorithm
+6. Spectral Clustering algorithm
 
 during the IE529, Statistics of Big Data class, Fall 2017, UIUC.
