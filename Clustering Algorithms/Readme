@@ -1,1 +1,11 @@
+This section covers the implementation of various clustering algorithms from scratch namely:
 
+1. K means Llyod's algorithm
+
+2. K means Single swap algorithm
+
+3. K means Greedy K cenetrs heuristic
+
+4. Spectral clustering algorithm
+
+The datasets are visualized before implementing the methods.
