@@ -1,4 +1,4 @@
-# Statistics-of-Big-Data-MPs
+# IE 529 Statistics of big data, UIUC MPs
 This repository consists of various computational tasks performed namely:
 
 1. Principal Component Analysis
